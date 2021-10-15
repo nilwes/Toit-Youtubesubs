@@ -21,8 +21,8 @@ D7pin := gpio.Pin.out 15
 viewCount       := 0
 subscriberCount := 0
 
-channelID := "UCzUmhNQgONA6-OmfoswkvzA"
-APIKey    := "AIzaSyC3eTz8or6hm55Y_KrgUFD9oBY79dTQPJA"
+channelID := "Your_channel_ID"
+APIKey    := "Your_Google_API_key"
 
 main:
   LCDinit   RSpin ENpin D4pin D5pin D6pin D7pin 0 0 // Submit pins, and 0 0 for no cursor, no blink
