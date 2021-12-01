@@ -1,0 +1,5 @@
+name: "YT Subscribers"
+entrypoint: ytsubs.toit
+triggers:
+  on_install: true
+  on_interval: 3h
