@@ -31,7 +31,7 @@ Instructions can be found [here](https://github.com/toitlang/toit/blob/master/RE
 You need the following parts:
 - ESP32 dev board
 - 1602 LCD
-- 10k or something like that
+- 10k potentiometer (or something like that)
  
 Here's the Fritzing diagram of the whole hardware setup. 
 
