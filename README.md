@@ -80,7 +80,8 @@ where `115200` is your serial baud rate.
 If you make changes to the code in `ytsubs.toit`, you need to build and run the demo again from step 4. Have fun!
 
 # Picture or it didn't happen
-![IMG_5395](https://user-images.githubusercontent.com/58735688/144841401-9eb379a8-6d1e-4621-97a7-4ad30bc3144f.JPG)
+![IMG_5395](https://user-images.githubusercontent.com/58735688/144844058-9d9e66ff-9cae-4f76-ad17-d2c774970d96.JPG)
+
 
 
 
