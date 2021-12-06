@@ -4,8 +4,8 @@ To keep track of your Youtube subscribers and video views, I put together this Y
 # Prerequisites
 This example requires Toit package toit-cert-roots and the driver for the HD44780 LCD controller. Install these Toit packages with 
 ```sh
-$toit pkg install github.com/toitware/toit-cert-roots
-$toit pkg install github.com/nilwes/HD44780
+toit pkg install github.com/toitware/toit-cert-roots
+toit pkg install github.com/nilwes/HD44780
 ```
 
 Visit pkt.toit.io for more packages
