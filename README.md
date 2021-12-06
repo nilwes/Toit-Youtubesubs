@@ -1,6 +1,12 @@
 # A Toit-powered Youtube subscriber/views counter
 To keep track of your Youtube subscribers and video views, I put together this Youtube-tracker powered by Toit. It is currently set up to run only once, but it is of course easy to modify the code to run repeatedly, at a certain rate.
 
+Remember to update the Toit code with your channel ID and API key
+```
+channelID := "YourYoutubeChannelID"
+APIKey    := "YourYoutubeAPIKey"
+```
+
 # Prerequisites
 This example requires Toit package toit-cert-roots and the driver for the HD44780 LCD controller. Install these Toit packages with 
 ```sh
