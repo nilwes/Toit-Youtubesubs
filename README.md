@@ -38,7 +38,7 @@ Instructions can be found [here](https://github.com/toitlang/toit/blob/master/RE
 ## 3. Hook up the hardware
 
 You need the following parts:
-- ESP32 dev board
+- ESP32 dev board. Buy one [here](https://www.digikey.com/en/products/detail/espressif-systems/ESP32-DEVKITC-32D/9356990).
 - 1602 LCD
 - 10k potentiometer (or something like that)
  
