@@ -8,13 +8,16 @@ APIKey    := "YourYoutubeAPIKey"
 ```
 
 # Prerequisites
-This example requires Toit package toit-cert-roots and the driver for the HD44780 LCD controller. Install these Toit packages with 
+This example requires that you have the Toit CLI installed. Visit the [Toit documentation page](https://docs.toit.io/getstarted/installation) for instructions on how to install this.
+
+Also, you need Toit packages for `toit-cert-roots` and the driver for the HD44780 LCD controller. Install these Toit packages with 
 ```sh
 toit pkg install github.com/toitware/toit-cert-roots
 toit pkg install github.com/nilwes/HD44780
 ```
+You'll find documentation for the `toit-cert-roots` package [here](https://pkg.toit.io/package/github.com%2Ftoitware%2Ftoit-cert-roots@v1.0.0) and for the HD44780 driver [here](https://pkg.toit.io/package/github.com%2Fnilwes%2FHD44780@v1.1.0).
 
-Visit pkt.toit.io for more packages
+Visit [pkg.toit.io](https://pkg.toit.io/) for more packages.
 
 # Steps
 
